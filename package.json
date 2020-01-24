@@ -1,0 +1,23 @@
+{
+  "name": "alexa_food_sale",
+  "version": "1.0.0",
+  "description": "A project which gets sales from grocery stores. You can then ask your Alexa device if an item is on sale.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rasamps/Alexa-Metro-Sales.git"
+  },
+  "author": "Rylen S.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rasamps/Alexa-Metro-Sales/issues"
+  },
+  "homepage": "https://github.com/Rasamps/Alexa-Metro-Sales#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "request": "^2.88.0"
+  }
+}
